@@ -1,5 +1,6 @@
 # Delivery Reliability Dashboard  
 **From reporting metrics to decision pressure**
+<img width="1280" height="720" alt="Supply chain- Delivery Report" src="https://github.com/user-attachments/assets/5a5b1ce4-3ee0-472c-9181-1f59491f0c1c" />
 
 ## Overview
 
